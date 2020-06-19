@@ -6,3 +6,4 @@ A description of my character is added here. A description of my character is ad
 * and even more different
 > I’ve always been more interested
 > in the future than in the past.  
+<img src="http://www.rua-ev.de/rua/IMG/ICONS/print.gif"/>
